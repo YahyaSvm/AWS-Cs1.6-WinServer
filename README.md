@@ -219,7 +219,9 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
    - Start SteamCMD and log in anonymously with `login anonymous`.
 
 2. **Install CS 1.6 Server:**
-   - Run `app_update 90` to download and install the Counter-Strike 1.6 server files.
+   - Run `app_update 90 validate` to download and install the Counter-Strike 1.6 server files.
+   - NOTE!:if after entering the command `Error! App '90' state is 0x10E after update job`. error, first `app_set_config 90 mod czero`
+and then type `app_update 90 validate` Continue until you get Success! App '90' fully installed. 
 
 3. **Verify Installation:**
    - Check the `cstrike` directory for required files. Ensure the installation is complete without errors.
