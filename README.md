@@ -305,6 +305,7 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 ### Connecting to the Server
 1. **Join the Server:**
    - Open Counter-Strike 1.6 and use the “Find Servers” or “Direct Connect” feature. Enter the server’s IP address to join.
+     
    ![images](https://github.com/user-attachments/assets/57f65e69-d938-4633-82db-a9ac34f22f51)
 
 
