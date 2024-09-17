@@ -1,5 +1,7 @@
 # Comprehensive Guide to Setting Up and Customizing a Counter-Strike 1.6 Server on AWS Windows
 
+![Counter-Strike-1 6-Logo-PNG-HD-Images](https://github.com/user-attachments/assets/1a5186ed-8b7b-4fe6-a4e9-fa2a94dae549)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
@@ -102,9 +104,11 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 ### Signing Up
 1. **Visit the AWS Sign-Up Page:**
    - Go to [AWS Sign-Up](https://aws.amazon.com/).
+![freetiersignup](https://github.com/user-attachments/assets/9377f245-43bf-4d21-aa64-7077c20c7f72)
 
 2. **Create Your Account:**
    - Click “Create an AWS Account” and enter your email and a strong password. Follow the prompts to complete the setup.
+![signupform](https://github.com/user-attachments/assets/b937419e-e044-4644-9a35-84508348d649)
 
 3. **Account Type Selection:**
    - Choose 'Personal' or 'Professional' based on your needs. Enter your name and contact details.
@@ -130,9 +134,11 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 ### Navigating the AWS Management Console
 1. **Access EC2 Dashboard:**
    - Log in to the AWS Management Console and select “EC2” from the “Services” menu.
+![Screenshot34201](https://github.com/user-attachments/assets/104c74ff-4fb7-4a00-b4ae-8659ed3eef0a)
 
 2. **Start Launch Instance Wizard:**
    - Click “Launch Instance” to begin creating a new virtual server.
+![Screenshot34301](https://github.com/user-attachments/assets/08164690-f349-4912-bbf1-5eac2ea97237)
 
 ### Choosing and Configuring an AMI
 1. **Select a Windows AMI:**
@@ -164,6 +170,8 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 
 3. **Launch the Instance:**
    - Review your configuration and click “Launch” to start your instance.
+   ![Screenshot34301](https://github.com/user-attachments/assets/3b8ece0e-abc5-4390-bf93-6631a1dfe50c)
+
 
 ## Connecting to Your Windows Instance
 
@@ -297,6 +305,8 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 ### Connecting to the Server
 1. **Join the Server:**
    - Open Counter-Strike 1.6 and use the “Find Servers” or “Direct Connect” feature. Enter the server’s IP address to join.
+   ![images](https://github.com/user-attachments/assets/57f65e69-d938-4633-82db-a9ac34f22f51)
+
 
 2. **Verify Gameplay:**
    - Test different aspects of gameplay to ensure the server is functioning correctly. Check for latency and stability.
@@ -431,3 +441,8 @@ Setting up a Counter-Strike 1.6 server on AWS Windows provides a robust platform
 - **Useful Commands:** List of useful commands for server management and troubleshooting.
 - **Links to Tools and Software:** Direct links to software and tools mentioned in the guide.
 
+
+
+I hope it was helpful, I tried to explain as much as I could. 
+
+YAHYALD
